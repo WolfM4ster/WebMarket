@@ -1,8 +1,4 @@
-﻿*************************************************************************************************************************************************************
-*                                                                                                                                                           *
-*                                                           Magasin Virtuel réalisé par REZGUI Abdoullah                                                    *
-*                                                                                                                                                           *
-*************************************************************************************************************************************************************
+﻿# WebMarket
 
 # Project Title
 
@@ -35,8 +31,9 @@ UWamp
 
 ## Deployment
 
-Import the project into myApp in Uwamp
+Import the project into the folder myApp of Uwamp
 Import database into phpMyAdmin
+go to this link : "http://localhost/my-app/web_market/source/web_market/"
 
 Connexion exemple
 
@@ -45,7 +42,6 @@ Admin
 	mot de passe : admin06
 
 Utilisateur
-
 	identifiant : dupont
 	mot de passe : test
 
