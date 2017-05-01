@@ -1,6 +1,4 @@
-﻿# WebMarket
-
-# Project Title
+# WebMarket
 
 Ce projet à été réalisé dans le cadre du module M314 : programmation serveur.
 Le magasin virtuel est un site web de ecommerce permettant l'achat de produit par des internautes.
